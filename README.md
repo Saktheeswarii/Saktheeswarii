@@ -1,55 +1,21 @@
-<!-- Title -->
-<h1 align="center">
-  Hi 👋, I'm Saktheeswari Dharmaraja
-</h1>
+<h1 align="center">Hi 👋, I'm Saktheeswari Dharmaraja</h1>
+<h3 align="center">Computer Science student with a passion for programming and problem-solving.</h3>
 
-<!-- Description -->
-<h3 align="center">
-  Computer Science student with a passion for programming and problem-solving.
-</h3>
+- 🌱 I’m currently learning **JavaScript, MongoDB and honing my skills in web development!**
 
-<!-- Skills and Learning -->
-<p align="left">
-  🌱 I’m currently learning <strong>JavaScript</strong>, <strong>MongoDB</strong>, and honing my skills in web development!
-</p>
+- 💬 Ask me about **JavaScript frameworks like ReactJS, problem-solving techniques.**
 
-<!-- Contact Info -->
-<p align="left">
-  💬 Ask me about <strong>JavaScript frameworks like ReactJS</strong> or problem-solving techniques.
-</p>
-<p align="left">
-  📫 How to reach me <a href="mailto:sakthidharmaraja@gmail.com">sakthidharmaraja@gmail.com</a>
-</p>
+- 📫 How to reach me **sakthidharmaraja@gmail.com**
 
-<!-- LinkedIn and Fun Fact -->
-<p align="left">
-  📄 Explore my experiences and connect with me on <a href="https://www.linkedin.com/in/saktheeswaridharmaraja/">LinkedIn</a>
-</p>
-<p align="left">
-  ⚡ Fun fact: Just like a detective cracking a case, I thrive on the thrill of tracking down bugs in my code! With every error I encounter, I embark on a riveting journey of discovery and problem-solving.
-</p>
+- 📄 Explore my experiences and connect with me on LinkedIn [https://www.linkedin.com/in/saktheeswaridharmaraja/](https://www.linkedin.com/in/saktheeswaridharmaraja/)
 
----
+- ⚡ Fun fact **Just like a detective cracking a case, I thrive on the thrill of tracking down bugs in my code! With every error I encounter, I embark on a riveting journey of discovery and problem-solving.**
 
-<!-- Connect with me -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/saktheeswaridharmaraja" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/sakthidharmaraja" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-  </a>
+<a href="https://linkedin.com/in/saktheeswaridharmaraja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saktheeswaridharmaraja" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/sakthidharmaraja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sakthidharmaraja" height="30" width="40" /></a>
 </p>
 
-<!-- Languages and Tools -->
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" height="40" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" height="40" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" height="40" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" height="40" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="40" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" height="40" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="40" width="40" />
-</p>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> </p>
