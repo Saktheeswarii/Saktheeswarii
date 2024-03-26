@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Saktheeswari Dharmaraja</h1>
 <h3 align="center">Computer Science student with a passion for programming and problem-solving.</h3>
 
-<p align="center">🌱 I’m currently learning <strong>JavaScript, MongoDB</strong> and honing my skills in web development!</p>
-<p align="center">💬 Ask me about <strong>JavaScript frameworks like ReactJS, problem-solving techniques.</strong></p>
-<p align="center">📫 How to reach me <strong><a href="mailto:sakthidharmaraja@gmail.com">sakthidharmaraja@gmail.com</a></strong></p>
-<p align="center">📄 Explore my experiences and connect with me on LinkedIn <strong><a href="https://www.linkedin.com/in/saktheeswaridharmaraja/">Saktheeswari Dharmaraja</a></strong></p>
+<p>🌱 I’m currently learning <strong>JavaScript, MongoDB</strong> and honing my skills in web development!</p>
+<p>💬 Ask me about <strong>JavaScript frameworks like ReactJS, problem-solving techniques.</strong></p>
+<p>📫 How to reach me <strong><a href="mailto:sakthidharmaraja@gmail.com">sakthidharmaraja@gmail.com</a></strong></p>
+<p>📄 Explore my experiences and connect with me on LinkedIn <strong><a href="https://www.linkedin.com/in/saktheeswaridharmaraja/">Saktheeswari Dharmaraja</a></strong></p>
 
-<p align="center">⚡ Fun fact: Just like a detective cracking a case, I thrive on the thrill of tracking down bugs in my code! With every error I encounter, I embark on a riveting journey of discovery and problem-solving.</p>
+<p>⚡ Fun fact: Just like a detective cracking a case, I thrive on the thrill of tracking down bugs in my code! With every error I encounter, I embark on a riveting journey of discovery and problem-solving.</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
