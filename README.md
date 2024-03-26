@@ -13,8 +13,8 @@
 
 - ⚡ Fun fact **Just like a detective cracking a case, I thrive on the thrill of tracking down bugs in my code! With every error I encounter, I embark on a riveting journey of discovery and problem-solving.**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://linkedin.com/in/saktheeswaridharmaraja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saktheeswaridharmaraja" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sakthidharmaraja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sakthidharmaraja" height="30" width="40" /></a>
 </p>
