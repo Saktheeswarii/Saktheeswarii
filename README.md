@@ -1,35 +1,6 @@
 <!-- Title -->
 <h1 align="center">
-  <span style="color: #4682B4;">H</span>
-  <span style="color: #4682B4;">i</span>
-  <span style="color: #4682B4;"> </span>
-  <span style="color: #4682B4;">👋</span>
-  <span style="color: #4682B4;">, </span>
-  <span style="color: #4682B4;">I</span>
-  <span style="color: #4682B4;">'</span>
-  <span style="color: #4682B4;">m </span>
-  <span style="color: #4682B4;">S</span>
-  <span style="color: #4682B4;">a</span>
-  <span style="color: #4682B4;">k</span>
-  <span style="color: #4682B4;">t</span>
-  <span style="color: #4682B4;">h</span>
-  <span style="color: #4682B4;">e</span>
-  <span style="color: #4682B4;">e</span>
-  <span style="color: #4682B4;">s</span>
-  <span style="color: #4682B4;">w</span>
-  <span style="color: #4682B4;">a</span>
-  <span style="color: #4682B4;">r</span>
-  <span style="color: #4682B4;">i </span>
-  <span style="color: #4682B4;">D</span>
-  <span style="color: #4682B4;">h</span>
-  <span style="color: #4682B4;">a</span>
-  <span style="color: #4682B4;">r</span>
-  <span style="color: #4682B4;">m</span>
-  <span style="color: #4682B4;">a</span>
-  <span style="color: #4682B4;">r</span>
-  <span style="color: #4682B4;">a</span>
-  <span style="color: #4682B4;">j</span>
-  <span style="color: #4682B4;">a</span>
+  Hi 👋, I'm Saktheeswari Dharmaraja
 </h1>
 
 <!-- Description -->
