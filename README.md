@@ -3,10 +3,6 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript, MongoDB and honing my skills in web development!**
-
-- 💬 Ask me about **JavaScript frameworks like ReactJS, problem-solving techniques.**
-
 - 📫 How to reach me **sakthidharmaraja@gmail.com**
 
 - 📄 Explore my experiences and connect with me on LinkedIn [https://www.linkedin.com/in/saktheeswaridharmaraja/](https://www.linkedin.com/in/saktheeswaridharmaraja/)
